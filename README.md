@@ -9,4 +9,3 @@
 - ⚡ Fun fact: ...
 
 [![EnKaiZhang's GitHub | Stats](https://stats.quine.sh/EnKaiZhang/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EnKaiZhang)
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username={EnKiZhang}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
